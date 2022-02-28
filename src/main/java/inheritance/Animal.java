@@ -15,6 +15,8 @@ public class Animal extends Object{
 	
 	public Animal(int a, int b) {
 //		super();
+//		super();
+//		super();
 		System.out.println("A new animal"+a+" has been created!"+b);
 	}
 	
